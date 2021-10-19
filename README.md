@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://github.com/vxfontes">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vxfontes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxfontes&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vxfontes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxfontes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -29,5 +29,5 @@
   <a href = "mailto:nessa1vane@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vanessa-ramos-fontes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-    ![Snake animation](https://raw.githubusercontent.com/vxfontes/vxfontes/output/github-contribution-grid-snake.svg)
+    <img src="https://raw.githubusercontent.com/vxfontes/vxfontes/output/github-contribution-grid-snake.svg">
 </div>
