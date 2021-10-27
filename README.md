@@ -1,8 +1,8 @@
 ## Hi, I'm Vanessa Fontes 👋
 
 - 💻 I'm a computer engineering student
-- 👩‍💻 I’m currently working on node.js
-- 👩‍🎓 I’m currently learning node.js
+- 👩‍💻 I’m currently working on reactjs
+- 👩‍🎓 I’m currently learning reactjs
 
 
 <div>
@@ -20,6 +20,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
   
   ##
