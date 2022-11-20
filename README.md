@@ -10,9 +10,9 @@
 # 📊 GitHub Stats:
 <div>
   <a href="https://github.com/vxfontes">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=vxfontes&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=vxfontes&theme=radical&hide_border=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxfontes&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=vxfontes&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=vxfontes&theme=radical&hide_border=true"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxfontes&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
 ## 🏆 GitHub Trophies
