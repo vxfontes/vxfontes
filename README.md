@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NextJs<br>👯 I’m looking to collaborate on a web project<br>💻 I'm a computer engineering student<br>🌱 I’m currently learning NextJs<br>
+🔭 I’m currently working on NextJs<br>👯 I’m looking to collaborate on a web project<br>💻 I'm a computer engineering student<br>🌱 I’m currently learning Machine Learning<br>
 
 
 ## 🌐 Socials:
